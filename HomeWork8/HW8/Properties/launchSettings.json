@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HW8": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Bob Wright;18;0;Math,History,Speech\"\r\n\"Alice Willis;24;1;History,Riding,Poetry,Statistics\"\r\n\"Jacob Willis;24;0;Nutrition\"\r\n\"Keira Russell;17;1;Statistics,Philosophy,Speech\"\r\n\"Alfie Cruz;21;1;Spanish,History\"\r\n\"Bonnie Trump;21;1;History,Statistics\"\r\n\"Jimmy Smit;22;0;Math,Speech,History\" \r\n\"Katherine Wilson;23;1;Poetry,Philosophy,Spanish\"\r\n\"Bob Dixon;21;0;Math,Poetry\"\r\n\"Josie Adams;20;1;Philosophy\"\r\n\"Jacob Rose;21;0;Poetry,Speech,Statistics\"\r\n\"Kelly Matthews;19;1;Nutrition,History\""
+    }
+  }
+}
